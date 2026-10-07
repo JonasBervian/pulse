@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Pulse.Api/Pulse.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Pulse.Api.IntegrationTests/Pulse.Api.IntegrationTests.csproj" />
+    <Project Path="tests/Pulse.Api.Tests/Pulse.Api.Tests.csproj" />
+  </Folder>
+</Solution>
